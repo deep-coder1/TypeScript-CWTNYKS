@@ -4,3 +4,7 @@ Timestamp:
 07:56 - What is Typescript?
 08:55 - Typescript vs Javascript
 16:37 - Setup VS Code Editor & understand the difference
+27:44 - How Typescript Works & Why?
+38:45 - Pros & Cons of TypeScript
+41:22 - Setup TypeScript Compiler
+01:07:10 - Debugging TypeScript Applications
